@@ -1,6 +1,8 @@
 # Deep Short Text Classification with Knowledge Powered Attention
 For the purpose of measuring the importance of knowledge, deep Short Text Classification with Knowledge powered Attention (STCKA) method introduces attention mechanisms, utilizing Concept towards Short Text (CST) attention and Concept towards Concept Set (C-CS) attention to acquire the weight of concepts from two aspects. And it can classify a short text with the help of conceptual information. Paper is available at [this site](https://arxiv.org/pdf/1902.08050.pdf).
-For the purpose of reproducing this paper, we implemented this code.
+
+#### For the purpose of reproducing this paper, we implemented this code.
+
 ## Requirements
 * Python==3.7.4
 * pytorch==1.3.1
